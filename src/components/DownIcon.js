@@ -9,7 +9,7 @@ function DownIcon() {
       height={40}
       viewBox="0 0 24 24"
       strokeWidth="1.5"
-      stroke="#334155"
+      stroke="#1e293b"
       fill="none"
       strokeLinecap="round"
       strokeLinejoin="round"
