@@ -1,5 +1,4 @@
 import "./App.css";
-import Down from "./components/Down";
 
 function App() {
   return ( 
