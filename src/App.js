@@ -7,7 +7,7 @@ function App() {
       
     <nav>
       <div className="flex justify-between items-center">
-        <h1 className="font-bold font-main text-2xl text-slate-700 ">TodoApp</h1>
+        <h1 className="font-bold font-main text-4xl text-slate-700 ">TodoApp</h1>
         <DownIcon/> 
       </div>
     </nav>
