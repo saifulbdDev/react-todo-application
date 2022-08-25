@@ -21,16 +21,16 @@ function App() {
               <input
                 type="text"
                 id="input"
-                className="border-b-2 border-slate-500 w-full outline-none focus:border-blue-500 transition-all duration-300 placeholder-transparent text-2xl font-semibold text-blue-500 font-main pb-1 peer bg-transparent"
+                className="border-b-2 border-slate-500 w-full outline-none focus:border-blue-500 transition-all duration-300 placeholder-transparent text-xl font-semibold text-blue-500 font-main pb-1 peer bg-transparent"
                 placeholder="hello"
               />
               <label
                 htmlFor="input"
-                className="font-bold text-slate-500 text-xl absolute left-0 peer-focus:-top-6  peer-focus:text-slate-700 transition-all duration-1000 font-main"
+                className="font-bold text-slate-600 text-lg absolute top-1 left-0 peer-focus:-top-7  peer-focus:text-slate-400 transition-all duration-300 font-main"
               >
                 Activity
               </label>
-              <div className="absolute top-0 cursor-pointer right-1 peer-focus:opacity-100 opacity-0 transition-all duration-300">
+              <div className="absolute -top-1 cursor-pointer right-1 peer-focus:opacity-100 opacity-0 transition-all duration-300">
                 <button type="submit" className="bg-green-600 px-4 rounded font-medium text-lg text-slate-200">Add</button>
               </div>
             </div>
