@@ -1,7 +1,6 @@
 import "./App.css";
 import DotsIcon from "./components/DotsIcon";
 import DownIcon from "./components/DownIcon";
-import SaveIcon from "./components/SaveIcon";
 
 function App() {
   return (
