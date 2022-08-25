@@ -3,9 +3,9 @@ import Down from "./components/Down";
 
 function App() {
   return (
-    <div className="h-max container mx-auto px-3 py-3">
+    <div className="h-max container mx-auto py-3">
       <nav>
-        <div className="flex w-72 justify-between items-center sticky z-50 top-2 right-4">
+        <div className="flex w-full  justify-between items-center">
           <h1 className="text-gray-700 text-2xl font-semibold">TodoApp</h1>
           <div>
             <svg
