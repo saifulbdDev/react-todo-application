@@ -36,7 +36,7 @@ function App() {
             </div>
           </form>
 
-          <div className="bg-slate-200 rounded-lg shadow-2xl px-3 py-5 mt-14">
+          <div className="bg-slate-200 rounded-lg shadow-lg px-3 py-5 mt-14">
             <h1 className="text-slate-600 text-center text-2xl font-bold">
               <span className="text-blue-500">Todo</span>List
             </h1>
