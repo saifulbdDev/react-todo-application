@@ -48,20 +48,6 @@ function App() {
                 </h1>
                 <DotsIcon />
               </div>
-              <div className="bg-white rounded-md flex justify-between items-center shadow-md py-3 px-2">
-                <input type="checkbox" name="" id="" className="" />
-                <h1 className="font-main text-lg text-slate-600 font-semibold">
-                  Olahraga
-                </h1>
-                <DotsIcon />
-              </div>
-              <div className="bg-white rounded-md flex justify-between items-center shadow-md py-3 px-2">
-                <input type="checkbox" name="" id="" className="" />
-                <h1 className="font-main text-lg text-slate-600 font-semibold">
-                  Olahraga
-                </h1>
-                <DotsIcon />
-              </div>
             </div>
           </div>
         </div>
