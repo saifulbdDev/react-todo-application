@@ -1,7 +1,9 @@
+import { useState } from "react";
 import "./App.css";
 
+
 function App() {
-  const [activity, setActivity] = useState("");
+  const [activity, setActivity] = useState("")
   const [todos, setTodos] = useState([]);
 
   // ketika submit
